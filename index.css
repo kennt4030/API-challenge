@@ -1,0 +1,8 @@
+body {
+    background-color: #557a95;
+}
+h1 {
+    backface-visibility: visible;
+    background-color: #7395ae;
+    text-align-last: center;
+}
